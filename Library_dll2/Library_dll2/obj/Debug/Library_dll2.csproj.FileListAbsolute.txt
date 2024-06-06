@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\bin\Debug\Library_dll2.dll
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\bin\Debug\Library_dll2.pdb
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\obj\Debug\Library_dll2.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\obj\Debug\Library_dll2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\obj\Debug\Library_dll2.dll
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\obj\Debug\Library_dll2.pdb
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\obj\Debug\Interop.ADOX.dll
+C:\Users\Дмитрий\source\repos\Library_dll2\Library_dll2\obj\Debug\Library_dll2.csproj.ResolveComReference.cache
